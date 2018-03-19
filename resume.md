@@ -1,11 +1,12 @@
 # Jesse Toth
 
-#### rendezvous
+#### rendezvous ([rendezvousapp.info](http://rendezvousapp.info))
+
 Founder
 
 March 2018 - Present
 
-Founder of a new ethical social networking app.
+Founder of a new ethical social networking app. 
 
 #### GitHub
 Principal Software Engineer
