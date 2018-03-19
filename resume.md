@@ -1,5 +1,12 @@
 # Jesse Toth
 
+#### rendezvous
+Founder
+
+March 2018 - Present
+
+Founder of a new ethical social networking app.
+
 #### GitHub
 Principal Software Engineer
 
