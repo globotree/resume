@@ -1,6 +1,6 @@
 # Jesse Toth
 
-#### rendezvous ([rendezvousapp.info](http://rendezvousapp.info))
+#### frequency ([frequency.network/](http://frequency.network/))
 
 Founder
 
