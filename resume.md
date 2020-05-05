@@ -1,12 +1,12 @@
-# Jesse Toth
+# Jesse Karmani (née Toth)
 
-#### frequency ([frequency.network/](http://frequency.network/))
+#### frequency ([frequency.app/](https://frequency.app/))
 
 Founder
 
 March 2018 - Present
 
-Founder of a new ethical social networking app. 
+Founder of a new privacy-focused, federated social networking app. 
 
 #### GitHub
 Principal Software Engineer
